@@ -7,7 +7,7 @@ int main(){
     printf("\nHere you can also calculate the modulus and percentage of Two Numbers.");
     printf("\nIts a Menu-Based Calculator, so you have to choose one of the following operations.");
     printf("\n");
-    printf("\n==============MENU BASED SIMPLE CALULATOR==============");
+    printf("\n==============MENU BASED SIMPLE CALCULATOR==============");
     printf("\n 1. ADDITION");
     printf("\n 2. SUBTRACTION");
     printf("\n 3. MULTIPLICATION");
